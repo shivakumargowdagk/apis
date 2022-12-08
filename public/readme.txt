@@ -1,0 +1,3 @@
+This is a readme file!
+
+in this it contain get methods, post methods, put methods, delete methods...
